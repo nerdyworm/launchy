@@ -1,0 +1,24 @@
+/* TEAM */
+
+  Founder and Lead Engineer: Benjamin Rhodes
+  Contact: ben [at] whotouse.co
+  Twitter: nerdyworms
+  Location: New York, USA
+
+  Founder and Head Honcho: Will Gregg
+  Contact: will [at] whotouse.co
+  Location: North Carolina, USA
+
+
+/* THANKS */
+
+  SRobbin: http://srobbin.com/blog/jquery-plugins/jquery-backstretch/
+  Stéphane Vandenwyngaert[Background Image]: http://www.sxc.hu/photo/132685
+
+/* SITE */
+
+  Standards: HTML5, CSS3, Home baked cookies
+  Components: HTML5 Boilerplate Modernizr, jQuery, jQuery Rating, Nivo Slider
+
+/* <3 you all */
+
