@@ -216,6 +216,17 @@ h1 {
   margin-bottom: 10px;
 }
 
+h1 a,
+h1 a:active,
+h1 a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: white;
+}
+
 h2 {
   margin-top: 40px;
   font-size: 20px;
