@@ -3,7 +3,7 @@ require 'rack/contrib'
 require 'rack-rewrite'
 
 use Rack::StaticCache, :urls => ['/img','/css','/favicon.ico'], :root => "public"
-#use Rack::ETag
+use Rack::ETag
 use Rack::Rewrite do
   rewrite '/', '/index.html'
 end
