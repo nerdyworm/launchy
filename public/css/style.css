@@ -184,9 +184,9 @@ img#bg {
   }
 }
 
-#container {
+#container, #about {
   position: relative;
-  margin: 100px auto;
+  margin: 100px auto 20px;
   width: 340px;
 
   background: #000000;
@@ -201,6 +201,10 @@ img#bg {
   -moz-box-shadow: 0 0 10px rgba(0,0,0,.5);
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,.5);
   box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+
+#about {
+  margin-top: 0;
 }
 
 #callout {
@@ -228,7 +232,6 @@ h1 a:hover {
 }
 
 h2 {
-  margin-top: 40px;
   font-size: 20px;
 }
 
